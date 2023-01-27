@@ -5,6 +5,6 @@
 
 
 
-Reflection Question
-After finalizing the Windows installation, what else can you do to improve your experience?
-Answer: check for any updates
+## Reflection Question
+### After finalizing the Windows installation, what else can you do to improve your experience?
+### Answer: check for any updates

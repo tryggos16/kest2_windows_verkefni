@@ -78,7 +78,36 @@ Answer: The security tab provides a way to display and change permissions of the
 
 # 11.1.2.10 Lab - Explore the Windows Desktop
 
-###
+### 1. Question: List some of the icons that are on the Desktop.
+Answer: the Recycle Bin.
+
+### 2. Question: What type of information is available on the Desktop and Taskbar?
+Answer:  shortcut's to applications, stored files on the desktop, icon of open application, date and time, network connection, and speaker volume.
+
+### 3. Question: Name a few applications listed in the Start Menu.
+Answer: Calculator, Command Prompt, and Windows Media Player and a lot more.
+
+### 4. Question: What are some of the available options?
+Answer: Calculator, windows endge, microsoft store.
+
+### 5. Question: What are the available options in the Taskbar settings?
+Answer: Lock the taskbar, Auto-hide the taskbar, and Use small icons or Use small taskbar buttons.
+
+### 6. Question: What are the available options in the Task View settings?
+Answer: Adding a desktop, moving applications to a different desktop
+
+### 7. Question: What happened?
+Answer: You are able to have the same application running on each Desktop Task Views.
+
+### 8. Question: What are the behavior options for the icons?
+Answer: The options are: Show icon and notifications, hide icon and notifications, and only show notifications.
+
+### 9. Question: Click Turn system icons on or off. List the system icons that can be enabled.
+Answer: Volume, Network, Power, Action Center.
+
+### 10. Question: What can you do in the Notification & actions Settings window?
+Answer: show or hide notifications and choose which apps can display notifications in the notification area.
+
 
 
 

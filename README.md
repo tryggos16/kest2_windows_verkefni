@@ -3,10 +3,10 @@
 
 # 10.3.1.4 Lab - Finalize the Windows Installation
 
-### 1.Question: What options are available in the Driver tab?
+### 1. Question: What options are available in the Driver tab?
 Answer: Driver Details and driver updates, 
 
-### 2.Question: After finalizing the Windows installation, what else can you do to improve your experience?
+### 2. Question: After finalizing the Windows installation, what else can you do to improve your experience?
 Answer: check for any updates
 
 
@@ -25,15 +25,18 @@ Answer: !
 Answer: 2.3.1
 
 ### 5. Question: What features, if any, have been added to the new BIOS version?
+Answer: !
 
 ### 6. Question: What changes, if any, have been made to the new BIOS version to fix problems?
+Answer: !
 
 ### 7. Question: What are the instructions to update the new BIOS version?
+Answer: !
 
 # 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 ### 1. Question: What is the default installation location for Packet Tracer?
-Answer:
+Answer: !
 
 ### 2. Reflection Question: Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 Answer: Sometimes, the uninstall software does not fully remove all the files and settings created by the application during installation. The Microsoft Windows Uninstall or change a program utility removes the application completely.
@@ -73,7 +76,9 @@ Answer: Security.
 ### 11. Reflection Question: Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
 Answer: The security tab provides a way to display and change permissions of the documents.
 
+# 11.1.2.10 Lab - Explore the Windows Desktop
 
+###
 
 
 

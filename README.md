@@ -24,7 +24,7 @@ Answer: Intel
 Answer: BIOS Version/Date	American Megatrends Inc. P2.00, 7/27/2015
 
 ### 4. Question: What is the current BIOS version available for the motherboard? 
-Answer: 2.3.1
+Answer: 2.3.1, t1.30
 
 ### 5. Question: What features, if any, have been added to the new BIOS version?
 Answer: none
@@ -119,6 +119,63 @@ Answer: Volume, Network, Power, Action Center.
 
 ### 10. Question: What can you do in the Notification & actions Settings window?
 Answer: show or hide notifications and choose which apps can display notifications in the notification area.
+
+
+11.1.3.4 Lab – Work with Task Manager
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+### 1. Question: use the task managar to force close the webrowser, What happened?
+Anser: The browser closed
+
+### 2. Question: Open the web browser again. Right-click the web browser in the Task Manager.
+Anwer: the options are. End task, Run new task, Always on top, Search online.
+
+### 3. Question: What statuses are listed in the services tab.
+Anser: Stopped and Running.
+
+### 4. Question: Right-click on one of the services listed. What are the available actions that can be taken?
+Asnwer: start, stop, restart, open services, search online,
+
+### 5. Question: What is the current utilization of the CPU?
+Answer: 20% - 45%
+
+### 6. Question: How many streams of instructions (i.e. Threads) are currently running?
+Answer: 1312.
+
+### 7. Question: How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+Answer: 39.
+
+### 8. Question: How much physical memory does the computer have in total MB.
+Answer: 8192MB.
+
+### 9. Question: What is the available physical memory (MB)?
+Answer: 4608MB.
+
+### 10. Question: How much physical memory (MB) is being used by the computer?
+Answer: 3072MB.
+
+### 11. Question: What is the link speed? What type of Ethernet Adapter is in use on this computer?
+Answer: cat5.
+
+### 12. Question: What type of network connection (i.e Connection type) is in use?
+Answer: Ethernet.
+
+### 13. Question: What is the IPv4 address of the PC? Note: This information is not available in the Networking tab in Windows 7.
+Answer: 10.11.124.70
+
+### 14. Question: Click the Memory heading. Click the Memory heading a second time. What effect does this have on the columns?
+
+	Intel(R) Ethernet Connection (2) I218-V
+
+	Adapter name:	Ethernet
+	DNS name:	2t.local
+	Connection type:	Ethernet
+	IPv4 address:	10.11.214.70
+	IPv6 address:	fe80::896b:988b:9484:f25d%8
+	Receive	0 Kbps
+	Send	0 Kbps
+
+
 
 
 

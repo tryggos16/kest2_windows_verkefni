@@ -15,7 +15,7 @@ Answer: check for any updates
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Questinon: What key or combination of keys is used to run Setup on your computer?
-Answer: F2
+Answer: F2 or delete
 
 ### 2. Question: Who is the manufacturer of the BIOS?
 Answer: Intel

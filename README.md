@@ -15,7 +15,7 @@ Answer: check for any updates
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Questinon: What key or combination of keys is used to run Setup on your computer?
-Answer: F2 or delete
+Answer: F2 or delete 
 
 ### 2. Question: Who is the manufacturer of the BIOS?
 Answer: Intel
@@ -27,13 +27,20 @@ Answer: BIOS Version/Date	American Megatrends Inc. P2.00, 7/27/2015
 Answer: 2.3.1
 
 ### 5. Question: What features, if any, have been added to the new BIOS version?
-Answer: !
+Answer: none
 
 ### 6. Question: What changes, if any, have been made to the new BIOS version to fix problems?
-Answer: !
+Answer: none
 
 ### 7. Question: What are the instructions to update the new BIOS version?
-Answer: !
+Answer: 
+1. Download the latest BIOS (UEFI) from manufacturer’s website
+2. Unzip it, if necessary, and copy to a USB flash drive formatted to FAT32 (NTFS may not be supported)
+3. Restart your computer and enter the BIOS (UEFI) by pressing the appropriate key on your keyboard (commonly F2, Del or F10)
+4. Navigate the menus to find the update screen
+5. Click an ‘Update’ button and select the file on your USB drive
+6. Wait until the update process has completed, then restart the computer
+
 
 # 3.1.2.7 Lab - Install Third-Party Software in Windows
 """""""""""""""""""""""""""""""""""""""""""""""""""""

@@ -2,6 +2,7 @@
 
 
 # 10.3.1.4 Lab - Finalize the Windows Installation
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: What options are available in the Driver tab?
 Answer: Driver Details and driver updates, 
@@ -11,6 +12,7 @@ Answer: check for any updates
 
 
 # 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates !NOT COMPLEATE!
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Questinon: What key or combination of keys is used to run Setup on your computer?
 Answer: F2
@@ -19,7 +21,7 @@ Answer: F2
 Answer: Intel
 
 ### 3. Which BIOS version is installed in your computer?
-Answer: !
+Answer: BIOS Version/Date	American Megatrends Inc. P2.00, 7/27/2015
 
 ### 4. Question: What is the current BIOS version available for the motherboard? 
 Answer: 2.3.1
@@ -34,14 +36,16 @@ Answer: !
 Answer: !
 
 # 3.1.2.7 Lab - Install Third-Party Software in Windows
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: What is the default installation location for Packet Tracer?
-Answer: !
+Answer: C drive
 
 ### 2. Reflection Question: Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 Answer: Sometimes, the uninstall software does not fully remove all the files and settings created by the application during installation. The Microsoft Windows Uninstall or change a program utility removes the application completely.
 
 # 10.2.1.8 Lab - Create a Partition in Windows
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: What type of File System is used on the NEW VOLUME (I:)?
 Answer: The file system is FAT32.
@@ -77,6 +81,7 @@ Answer: Security.
 Answer: The security tab provides a way to display and change permissions of the documents.
 
 # 11.1.2.10 Lab - Explore the Windows Desktop
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: List some of the icons that are on the Desktop.
 Answer: the Recycle Bin.

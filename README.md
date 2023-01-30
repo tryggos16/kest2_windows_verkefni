@@ -164,6 +164,29 @@ Answer: Ethernet.
 Answer: 10.11.124.70
 
 ### 14. Question: Click the Memory heading. Click the Memory heading a second time. What effect does this have on the columns?
+Answer: it switches between highest and lowest.
+
+### 15. Question: Right-click on the Memory heading, and then select Resource values > Memory > Percents. What affect does this have on the Memory column?
+Answer: It switches to % instead of MB.
+
+### 16. Question: The listed processes are divided by categories. What categories are listed in the name heading?
+Answer: Apps, Background processes
+
+### 17. Question:
+Answer: Expand, Disconnect, and Manage user accounts.
+
+### 18. Question: Click the Startup tab. Right-click a process and list the available options below.
+Answer: Disable, Open file location, Search online, Properties.
+
+### 19. Question: App history, What type of information can you get from this list?
+Answer: CPU time, Network, Metered network, Tile updates.
+
+### 20. Question: The Details tab displays process information such as process ID (PID), status, and memory utilization. Right-click a process and list the available options below.
+Answer: End task, End process tree, Set priority, Set affinity, Analyze wait chain, UAC virtualization, Create dump file, Open file location, Search online, Properties, and Go to service(s).
+
+### 21. Question: Why is it important for an administrator to understand how to work within the Task Manager?
+Answer: the task manager gives a bunch of info witch can be used to trubleshoot the computer.
+
 
 	Intel(R) Ethernet Connection (2) I218-V
 

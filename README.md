@@ -185,18 +185,36 @@ Answer: CPU time, Network, Metered network, Tile updates.
 Answer: End task, End process tree, Set priority, Set affinity, Analyze wait chain, UAC virtualization, Create dump file, Open file location, Search online, Properties, and Go to service(s).
 
 ### 21. Question: Why is it important for an administrator to understand how to work within the Task Manager?
-Answer: the task manager gives a bunch of info witch can be used to trubleshoot the computer.
+Answer: the task manager gives a bunch of info witch can be used to troubleshoot the computer and a lot more.
 
 
-	Intel(R) Ethernet Connection (2) I218-V
+11.1.4.11 Lab - Working with File Explorer
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-	Adapter name:	Ethernet
-	DNS name:	2t.local
-	Connection type:	Ethernet
-	IPv4 address:	10.11.214.70
-	IPv6 address:	fe80::896b:988b:9484:f25d%8
-	Receive	0 Kbps
-	Send	0 Kbps
+### 1. Question: create 2 folders, move folder2 into folder1, then move folder1 to the desktop
+Answer: The new folders are displayed on the Desktop. After moving Folder2 into Folder1, only Folder1 on the Desktop.
+
+### 2. Question: What is the file extension for the text document?
+Answer: .txt
+
+### 3. Question: Make a copy of the text document and place it in Folder2, how would you do it?
+Answer: Right-click the text document > click Copy > Open Folder2 and right-click Paste.
+
+### 4. Question: Right-click the text document > click Properties.  Click the Details tab.
+What are the attributes associated with this file?
+Answer: A.
+
+### 5. Question: Now create a folder named Folder3 inside Folder2 What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
+Answer: C:\Users\tryggvi þor\Desktop\folder1\folder2\folder3.
+
+### 6. Question: Drag and drop Folder1 onto Quick Access, What happened? Why would you want to do this?
+Answer: The folder is now in the quick accses side bar and now i can quickly find the folder.
+
+### 7. Questin: 
+Answer: 
+
+
+
 
 
 

@@ -226,8 +226,13 @@ Answer: There were no other user folders. But if you have administrative privile
 ### 11. Question: Open the Public folder. List all the folders in the directory
 Answer: Public Documents, Public Downloads, Public Music, Public Pictures, Public Videos.
 
-### 12: Question:
-Answer:
+## Step 2:  Windows Libraries
+
+### 12: Question: Which folders or files listed under the Libraries heading?
+Answer: Documents, Music, Pictures, and Videos.
+
+### 13. Question: How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+Answer: Select the Folder1 library location and click Remove and then click OK.
 
 
 

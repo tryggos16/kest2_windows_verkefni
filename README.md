@@ -244,6 +244,18 @@ Answer: Category, Large icons, and Small icon.
 ### 2. Question: Name a few of the Control Panel categories.
 Answer: (catagory view) System and Security, Network and Internet, Hardware and Sound, Programs, User Accounts, Appearance and Personalization, Clock and Region, and Ease of Access.
 
+## Step 2:  System and Security
+### 3. Question: Which subcategory would help you troubleshoot common problems?
+Answer: Troublesoot the computer.
+
+### 4. Question: Which subcategory allow a program through Windows Firewall?
+Answer: Windows Defender Firewall > Allow an app or feature through Windows Defender Firewall.
+
+## Step 3:  Network and Internet.
+### 5. Question: Which subcategory allows you to view the basic network information and set up connections?
+Answer: Network and Sharing Center.
+
+## Step 4:  Hardware and Sound
 
 
 

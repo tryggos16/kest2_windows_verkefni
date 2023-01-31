@@ -287,6 +287,16 @@ Answer: Taskbar and Navigation.
 ### 14. Question: Which subcategory would you use to show hidden files and folders?
 Answer: file exlorer options, view, uncheck Hide extensions for known file types.
 
+## Step 8:  Clock and Region (Clock, Language, and Region)
+### 15. Question: Which subcategory would you use to change the time zone?
+Answer: Date and Time Change the time zone.
+
+### 16. Question: Which subcategory would you use to change date format?
+Answer: Region.
+
+### 17. Question: Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
+Answer: Date and Time > Internet Time > Change settings.
+
 
 
 

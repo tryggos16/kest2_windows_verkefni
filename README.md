@@ -210,8 +210,20 @@ Answer: C:\Users\tryggvi þor\Desktop\folder1\folder2\folder3.
 ### 6. Question: Drag and drop Folder1 onto Quick Access, What happened? Why would you want to do this?
 Answer: The folder is now in the quick accses side bar and now i can quickly find the folder.
 
-### 7. Questin: 
-Answer: 
+### 7. Questin: list all the folders inside the local disk (c:)
+Answer: folder1, intel, perfLogs, Program Files, Program Files (x86), Users, Windows.
+
+### 8. Question: Open the Users folder. List all the folders in the directory.
+Answer: Public, tryggvi þor.
+
+### 9. Question: Open the folder associated with your username, Were you able to open it? Explain.
+Answer: Yes i was able to open the (tryggvi þor) folder.
+
+### 10. Question: Open the folder associated with another username if it is available on the PC
+Were you able to open it? Explain.
+Answer: There were no other user folders. But if you have administrative privileges, then you can open another user's folder, unless the other user also has administrator privileges and does not allow access.
+
+
 
 
 

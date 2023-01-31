@@ -235,6 +235,15 @@ Answer: Documents, Music, Pictures, and Videos.
 Answer: Select the Folder1 library location and click Remove and then click OK.
 
 
+# 11.2.1.5 Lab - Explore Control Panel Categories
+
+## Step 1:  Control Panel Views
+### 1. Question: In the Control Panel, click (View by), what are the options?
+Answer: Category, Large icons, and Small icon.
+
+### 2. Question: Name a few of the Control Panel categories.
+Answer: (catagory view) System and Security, Network and Internet, Hardware and Sound, Programs, User Accounts, Appearance and Personalization, Clock and Region, and Ease of Access.
+
 
 
 

@@ -223,6 +223,12 @@ Answer: Yes i was able to open the (tryggvi þor) folder.
 Were you able to open it? Explain.
 Answer: There were no other user folders. But if you have administrative privileges, then you can open another user's folder, unless the other user also has administrator privileges and does not allow access.
 
+### 11. Question: Open the Public folder. List all the folders in the directory
+Answer: Public Documents, Public Downloads, Public Music, Public Pictures, Public Videos.
+
+### 12: Question:
+Answer:
+
 
 
 

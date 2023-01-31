@@ -188,7 +188,7 @@ Answer: End task, End process tree, Set priority, Set affinity, Analyze wait cha
 Answer: the task manager gives a bunch of info witch can be used to troubleshoot the computer and a lot more.
 
 
-11.1.4.11 Lab - Working with File Explorer
+# 11.1.4.11 Lab - Working with File Explorer
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: create 2 folders, move folder2 into folder1, then move folder1 to the desktop
@@ -236,6 +236,7 @@ Answer: Select the Folder1 library location and click Remove and then click OK.
 
 
 # 11.2.1.5 Lab - Explore Control Panel Categories
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ## Step 1:  Control Panel Views
 ### 1. Question: In the Control Panel, click (View by), what are the options?
@@ -256,6 +257,62 @@ Answer: Windows Defender Firewall > Allow an app or feature through Windows Defe
 Answer: Network and Sharing Center.
 
 ## Step 4:  Hardware and Sound
+### 6. Question: Which subcategory allows you to choose what happens when you insert a media or device?
+Answer: Aouto play.
+
+### 7. Question: Which subcategory allows you to add a printer?
+Answer: Devices and Printers > Add a printer
+
+## Step 5:  Programs.
+### 8. Question: Which subcategory would you use to have a specific file type always open in a specified program?
+Answer: Default Programs > set your default programs or Default Programs > Associate a file type or protocol with a program.
+
+### 9. Question: Which subcategory would you use to uninstall a program?
+Answer: Programs and Features > uninstall a program.
+
+### 10. Question: Which subcategory would you use to install the Windows telnet client?
+Answer: Programs and Features > Turn Windows features on or off.
+
+## Step 6: User Accounts.
+### 11. Question: Which subcategory would you use change the account type from administrator to standard?
+Answer: User Accounts > Change your account type.
+
+### 12. Question: Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+Answer: Credential Manager.
+
+## Step 7:  Appearance and Personalization
+### 13. Question: Which subcategory would you use to customize the Taskbar?
+Answer: Taskbar and Navigation.
+
+### 14. Question: Which subcategory would you use to show hidden files and folders?
+Answer: file exlorer options, view, uncheck Hide extensions for known file types.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

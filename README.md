@@ -348,7 +348,9 @@ Answer: 1879MB
 Answer: it is the  I[ITE] drive.
 
 ## Step 4: Reset the virtual memory back to the original settings.
-### 5. Question:
+### 5. Reflection Questions: Why would you ever change the default virtual memory page file settings in Windows?
+Answer: to ensure system stability.
+
 
 
 

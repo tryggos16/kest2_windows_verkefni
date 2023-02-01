@@ -300,6 +300,22 @@ Answer: Date and Time > Internet Time > Change settings.
 
 # 11.2.2.3 Lab - User Accounts
 """""""""""""""""""""""""""""""""""""""""""""""""""""
+## Part 1:  Account Creation.
+
+### 1. Question: What can a user do with a limited account?
+Answer: a limited acount can open programs, but cannot install new ones.
+
+### 2. Question: What limitations does this type of an account have?
+Answer: a limited acount can´t change some of the settings that affect other accounts.
+
+### 3. Question: What information is listed for the new account?
+Answer: The account name and that the account is a standard user account.
+
+
+## Part 2: Change the Account Type.
+
+### 4. Question:
+
 
 
 

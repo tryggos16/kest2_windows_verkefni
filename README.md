@@ -330,6 +330,27 @@ Answer: The Standard User cannot compromise the security of the computer or the 
 Answer: if you wish to remove the user from the computer but wish to keep the data on the account.
 
 
+# 11.2.5.8 Lab – Manage Virtual Memory.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+## Step 1:  Open System Properties.
+### 1. Question: What is the current size of the virtual memory (paging file)?
+Answer: 1920MB.
+
+## Step 2:  Make virtual memory changes.
+### 2. Question: What Drive [Volume Label] contains the paging file?
+Answer: it shows the C: drive.
+
+### 3. Question: What is the recommended paging file size for all drives?
+Answer: 1879MB
+
+## Step 3:  Navigate back to the Virtual Memory window to verify changes.
+### 4. Question: What Drive [Volume Label] contains the paging file?
+Answer: it is the  I[ITE] drive.
+
+## Step 4: Reset the virtual memory back to the original settings.
+### 5. Question:
+
+
 
 
 

@@ -301,7 +301,6 @@ Answer: Date and Time > Internet Time > Change settings.
 # 11.2.2.3 Lab - User Accounts
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1:  Account Creation.
-
 ### 1. Question: What can a user do with a limited account?
 Answer: a limited acount can open programs, but cannot install new ones.
 
@@ -313,8 +312,22 @@ Answer: The account name and that the account is a standard user account.
 
 
 ## Part 2: Change the Account Type.
+### 4. Question: What is the advantage of having most users work within a Standard user account?
+Answer: A standard user account can prevent users from altering files and settings that may affect the computer or other users accounts.
 
-### 4. Question:
+## Part 3:  Delete the Account
+### 5. Question: For this lab, select Delete Files. What are the other options? When would you choose the other options?
+Answer: The Keep Files allows you to save the content of deleted user’s desktop and some of the folders in a new folder on your Desktop.
+
+## Reflection Questions.
+### 6. Question: Why is it important to protect all accounts with strong passwords?
+Answer: To provent access to the account with precious data.
+
+### 7. Question: Why would you create a user with Standard privileges?
+Answer: The Standard User cannot compromise the security of the computer or the privacy of other users.
+
+### 8. Question: In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+Answer: if you wish to remove the user from the computer but wish to keep the data on the account.
 
 
 

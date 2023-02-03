@@ -367,6 +367,40 @@ answer: the filename of the driver, version and where it is located.
 ### 4. Question: click update driver, What two options do you have for updating the driver?
 Answer: You can search automatically, which will search the computer and internet for the latest driver software, or you can browse the computer’s file folders for a driver.
 
+### 5. Question: What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+Answer: It allows you to uninstall newly installed driver software and revert back to the driver that was used prior to a driver upgrade. The button is grayed out because a new driver has not been installed.
+
+### 6. Question: What are the other available options?
+Answer: The other options are disable device and uninstall devices.
+
+
+## 11.3.1.11 Lab – Monitor and Manage System Resources.
+## Part 2:  Explore the Impact of Services - Step 2:  Stop print spooler.
+### 1. Question: What message did you receive? How would you fix this?
+Answer: The message received says: Before you can perform printer-related tasks such as page setup or printing a document, you need to install a printer. You will need to restart the print spooler.
+
+## Step 3:  Restart print spooler - Verify that you can print (OK).
+
+## Step 4:  Explore DHCP Client service
+### 2. Question: When DHCP Client stops, what other services will also be stopped?
+Answer: If this service is stopped, this computer will not receive dynamic IP addresses and DNS updates.
+
+### 3. Question: Why is it important to exercise care when managing services?
+Answer: Applications and other services may depend on a given service to work. Stopping a service can compromise the operation of other services.
+
+## Part 3:  Monitor and record system usage with Administrative Tools.
+
+Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
+
+
+
+
+
+
+
+
+
+
 
 
 

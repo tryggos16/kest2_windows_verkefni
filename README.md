@@ -396,8 +396,29 @@ Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
 Answer: Available memory in MBytes.
 
 ## 11.3.2.7 Lab - System Utilities.
+## Part 1: Custom Management Console
+### 1. Question: What was the path you use to navigate to the Event Viewer?
+Answer: jhon´s Console - [Console Root\Management Tools\Computer Management(Local)\System Tools\Event Viewer]
 
-Answer: jhon´s Console - [Console Root\Management Tools\Computer Management(Local)\System Tools\Event Viewer] 
+## Part 2: Registry Editor.
+## Step 1: Change your desktop background settings.
+### 2. Question: What is the background picture?
+Answer: Picture.
+
+## Step 2: Open the registry editor.
+### 3. Question: hat is the data value of the Background (hint – it has three numbers that correspond to red, green, and 
+blue)?
+Answer: 0 99 177.
+
+## Step 3: Export a registry key.
+
+
+
+
+
+
+
+
 
 
 

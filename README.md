@@ -389,8 +389,13 @@ Answer: If this service is stopped, this computer will not receive dynamic IP ad
 Answer: Applications and other services may depend on a given service to work. Stopping a service can compromise the operation of other services.
 
 ## Part 3:  Monitor and record system usage with Administrative Tools.
-
+### 4. Question: What is the full path name to the example file name?
 Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
+
+#### 5. Question: What does the column farthest to the right show?
+Answer: Available memory in MBytes.
+
+
 
 
 

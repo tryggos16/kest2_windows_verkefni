@@ -395,6 +395,9 @@ Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
 #### 5. Question: What does the column farthest to the right show?
 Answer: Available memory in MBytes.
 
+## 11.3.2.7 Lab - System Utilities.
+
+Answer: jhon´s Console - [Console Root\Management Tools\Computer Management(Local)\System Tools\Event Viewer] 
 
 
 

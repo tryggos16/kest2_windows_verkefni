@@ -352,6 +352,25 @@ Answer: it is the  I[ITE] drive.
 Answer: to ensure system stability.
 
 
+# 11.2.6.2 Lab – Use Device Manager
+## Step 1: Open Device Manager.
+### 1. Question: What information is listed in the Device Manager window? Why would you use it?
+Answer: Device Manager lists all the hardware devices installed on your computer. Use the Device Manager to view and change the properties of any device.
+
+### 2. Question: How would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+Answer: Device Manager > Action tab > Add legacy hardware.
+
+## Step 2: Display the monitor settings on your computer.
+### 3. Question: What additional information does Driver Details provide?
+answer: the filename of the driver, version and where it is located.
+
+### 4. Question: click update driver, What two options do you have for updating the driver?
+Answer: You can search automatically, which will search the computer and internet for the latest driver software, or you can browse the computer’s file folders for a driver.
+
+
+
+
+
 
 
 

@@ -417,11 +417,10 @@ Answer: 0 99 177.
 ## Step 3: Export a registry key.
 
 
-
-11.3.2.8 Lab - Manage System Files.  NOT DONE!
+# 11.3.2.8 Lab - Manage System Files.  NOT DONE!
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
-11.4.1.5 Lab - Work in the Windows Command Shell.
+# 11.4.1.5 Lab - Work in the Windows Command Shell.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Step 2: Display command help from the command prompt.
 ### 1. Question: To see the next page, press the spacebar. What happens when you press enter?
@@ -442,6 +441,42 @@ Answer: cls
 ### 6. Question: What is the last command?
 Answer: cls
 
+
+# 11.4.2.7 Lab - File System Commands. NOT DONE!
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+## Step 2:Create and change directories.
+### 1. Question: Type cd at the command prompt. What is the current directory?
+Answer: it did not change.
+
+### 2. Question: Type cd ITEfolder3 at the command prompt and press Enter. Which folder are you in now?
+Answer: C:\Users\tryggvi\ITEfolder3.
+
+### 3. Question: Create ITEfolder4 in the current directory. Within the ITEfolder4 folder, create a folder named ITEfolder5. Use the dir command to verify the folder creation. What command or commands did you use to create the nested folders?
+Answer: C:\Users\tryggvi\ITEfolder3> md ITEfolder4\ITEfolder5
+
+### 4. Question: After issuing the cd .. command, what is your directory now?
+Answer: C:\Users\tryggvir\ITEfolder3\ITEFolder4
+
+### 5. Question: What would be the current directory if you issue this command at C:\Users\ITEfolder4?
+Answer: C:\Users\tryggvi\ITEFolder3
+
+## Step 4:Copy, delete, and move files.
+### 6. Question: What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.
+Answer: C:\Users\tryggvi\ITEfolder1> del doc2*
+
+### 7. Question: What command would you use to delete all the files in the directory? Use the command to remove the files.
+Answer: C:\Users\tryggvi\ITEfolder1> del *.*
+
+
+## Step 5: Use the xcopy and robocopy commands.
+### 8. Question: What option allows you to copy all the files and directories, including the empty directories?
+Answer: The option is /E.
+
+
+## Step 6:Delete directories.
+### 9. Questions: Navigate to the C:\Users\ITEUser\ITEfolder3 directory. and user rd ITEfolder1, Were you able to delete the directory? Explain
+Answer: You were not able to delete the directory because it was not empty.
 
 
 

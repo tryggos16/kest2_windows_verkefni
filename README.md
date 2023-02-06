@@ -398,7 +398,7 @@ Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
 Answer: Available memory in MBytes.
 
 
-## 11.3.2.7 Lab - System Utilities.
+# 11.3.2.7 Lab - System Utilities.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1: Custom Management Console
 ### 1. Question: What was the path you use to navigate to the Event Viewer?
@@ -456,7 +456,7 @@ Answer: Memory	7.68 GB
 ### 4. Question: Under the Hardware Resources heading, locate and list the following:
 DMA channels and the device using the resources.
 Answer: 
-Channel 3	ECP Printer Port (LPT1)	OK <br /
+Channel 3	ECP Printer Port (LPT1)	OK <br />
 Channel 4	Direct memory access controller	OK
 
 ### 5. Question: Under the Components heading locate and list the following:

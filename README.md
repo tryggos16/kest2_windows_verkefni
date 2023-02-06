@@ -440,8 +440,53 @@ Answer:  It would make it easy to configure and monitor other computers that do 
 Answer: Importing the registry file modified the registry to contain a value for the desktop that was not the same as the current value. When the computer started, this value was read from the registry to make the desktop that color.
 
 
+
 # 11.3.2.8 Lab - Manage System Files.  NOT DONE!
 """""""""""""""""""""""""""""""""""""""""""""""""""""
+## Step 1:Review the System Information.
+### 1. Question: Processor?
+Answer: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz, 3600 Mhz, 2 Core(s), 4 Logical Processor(s)
+
+### 2. Question: BIOS Version/Date?
+Answer: American Megatrends Inc. P2.00, 7/27/2015
+
+### 3. Question: Total Physical Memory?
+Answer: Memory	7.68 GB
+
+### 4. Question: Under the Hardware Resources heading, locate and list the following:
+DMA channels and the device using the resources.
+Answer: 
+Channel 3	ECP Printer Port (LPT1)	OK
+Channel 4	Direct memory access controller	OK
+
+### 5. Question: Under the Components heading locate and list the following:
+Adapter Description
+Answer: Adapter Description	Intel(R) HD Graphics 4400
+
+### 6. Question: Adapter RAM
+Answer: Adapter RAM	1.00 GB (1,073,741,824 bytes)
+
+### 7. Question: Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?
+Answer: Startup programs
+
+## Step 2:Review the System Configuration.
+### 8. Question: What are the startup options?
+Answer: Normal startup, Diagnostic startup, or Selective startup.
+
+### 9. Question: Can you enable and disable services at this tab?
+Answer: True/1/Yes
+
+### 10. Questin: click the tool tab, What can you do in this tab?
+Answer: Launch Windows built-in utilities.
+
+
+
+
+
+
+
+
+
 
 # 11.4.1.5 Lab - Work in the Windows Command Shell.
 """""""""""""""""""""""""""""""""""""""""""""""""""""

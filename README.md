@@ -423,6 +423,25 @@ Answer: 0 99 177.
 
 11.4.1.5 Lab - Work in the Windows Command Shell.  NOT DONE!
 """""""""""""""""""""""""""""""""""""""""""""""""""""
+## Step 2: Display command help from the command prompt.
+### 1. Question: To see the next page, press the spacebar. What happens when you press enter?
+Answer: it advances one line at a time.
+
+### 2. Question: How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
+Answer: C:\Users\ITEUser> mkdir a\b\c
+
+### 3. Question: What command would you use to verify the creation of the nested directories?
+Answer: dir to list the folders in the directory.
+
+### 4. Question: Clear the screen using the command line. What command did you use?
+Answer: cls
+
+### 5. Question: What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+Answer: cls
+
+### 6. Question: What is the last command?
+Answer: cls
+
 
 
 

@@ -485,3 +485,42 @@ Answer GUI: GUI lets a user interact with the device/system with the help of gra
 Answer CLI: CLI lets a user interact with their device/system with the help of various commands.
 
 
+# 11.4.3.2 Lab - Disk CLI Commands. NOT DONE!
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+## Step 1:  Explore the chkdsk command
+### 1. Question: What is the option to fix errors on the drive?
+Answer: /F
+
+### 2. Question: What is the option to force the volume to dismount first if necessary?
+Answer: /X
+
+### 3. Question: What is the option to locate bad sectors and recover readable information?
+Answer: /R
+
+### 4. Question: Enter the chkdsk command to check the C:\ drive with the options from the questions in the previous step.
+What happened? Explain.
+Answer: Access was denied because you do not have sufficient privileges.
+
+## Step 2:  Use the chkdsk command options.
+### 5. Question: What is the file system of the drive?
+Answer: !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

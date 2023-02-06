@@ -375,7 +375,7 @@ Answer: It allows you to uninstall newly installed driver software and revert ba
 Answer: The other options are disable device and uninstall devices.
 
 
-## 11.3.1.11 Lab – Monitor and Manage System Resources.
+# 11.3.1.11 Lab – Monitor and Manage System Resources.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 2:  Explore the Impact of Services - Step 2:  Stop print spooler.
 ### 1. Question: What message did you receive? How would you fix this?
@@ -398,7 +398,7 @@ Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
 Answer: Available memory in MBytes.
 
 
-## 11.3.2.7 Lab - System Utilities.  NOT DONE!
+## 11.3.2.7 Lab - System Utilities.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1: Custom Management Console
 ### 1. Question: What was the path you use to navigate to the Event Viewer?
@@ -429,7 +429,15 @@ Answer: 0 99 177
 ### 7. Question: What is the color of the desktop?
 Answer: its still RED?
 
-### 8.
+### 8. Question: Restart the computer. What is the color of the desktop?
+Answer: it's back to Blue.
+
+## Reflection Questions.
+### 9. Question: Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+Answer:  It would make it easy to configure and monitor other computers that do not have monitors, keyboards or mice, or that are not easily accessible.
+
+### 10. Question: After restarting the computer, why was the desktop color changed?
+Answer: Importing the registry file modified the registry to contain a value for the desktop that was not the same as the current value. When the computer started, this value was read from the registry to make the desktop that color.
 
 
 # 11.3.2.8 Lab - Manage System Files.  NOT DONE!

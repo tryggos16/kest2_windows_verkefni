@@ -441,7 +441,7 @@ Answer: Importing the registry file modified the registry to contain a value for
 
 
 
-# 11.3.2.8 Lab - Manage System Files.  NOT DONE!
+# 11.3.2.8 Lab - Manage System Files.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Step 1:Review the System Information.
 ### 1. Question: Processor?
@@ -480,12 +480,29 @@ Answer: True/1/Yes
 Answer: Launch Windows built-in utilities.
 
 
+## Step 3:Review DirectX Diagnostics.
+### 11. Question: What does this tool report?
+Answer: Detailed information about the DirectX components and drivers installed on the system.
 
+### 12. Question: Display tab, What information is listed on this page?
+Answer: Device, Drivers, and DirectX Features
 
+### 13. Question: Sound tab, What information is listed on this page?
+Answer: Divece and drivers
 
+### 14. Question: Input tab, What information is listed on this page?
+Answer: A list of input devices
 
+### 15. Question: List any additional tabs in your DirectX Diagnostic Tool window below.
+What information is listed on these extra tabs?
+Answer: Notes
 
+## Relfection Questions.
+### 16. Question: Why would it be beneficial to turn off a service in the system configuration?
+Answer: It may be beneficial to turn off a service if that service may have become unresponsive, or if a service is using too many resources.
 
+### 17. Question: When would you use the startup tab of the system configuration tool?
+Answer: There may be programs that you do not wish to start when the computer boots.
 
 
 # 11.4.1.5 Lab - Work in the Windows Command Shell.

@@ -421,7 +421,7 @@ Answer: 0 99 177.
 11.3.2.8 Lab - Manage System Files.  NOT DONE!
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
-11.4.1.5 Lab - Work in the Windows Command Shell.  NOT DONE!
+11.4.1.5 Lab - Work in the Windows Command Shell.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Step 2: Display command help from the command prompt.
 ### 1. Question: To see the next page, press the spacebar. What happens when you press enter?

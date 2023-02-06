@@ -397,7 +397,8 @@ Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
 #### 5. Question: What does the column farthest to the right show?
 Answer: Available memory in MBytes.
 
-## 11.3.2.7 Lab - System Utilities.
+
+## 11.3.2.7 Lab - System Utilities.  NOT DONE!
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1: Custom Management Console
 ### 1. Question: What was the path you use to navigate to the Event Viewer?
@@ -413,63 +414,15 @@ Answer: Picture.
 blue)?
 Answer: 0 99 177.
 
-## Step 3: Export a registry key. NOT DONE!
+## Step 3: Export a registry key.
 
 
 
+11.3.2.8 Lab - Manage System Files.  NOT DONE!
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+11.4.1.5 Lab - Work in the Windows Command Shell.  NOT DONE!
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
 

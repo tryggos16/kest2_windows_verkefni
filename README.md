@@ -442,7 +442,7 @@ Answer: cls
 Answer: cls
 
 
-# 11.4.2.7 Lab - File System Commands. NOT DONE!
+# 11.4.2.7 Lab - File System Commands.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ## Step 2:Create and change directories.
@@ -478,7 +478,9 @@ Answer: The option is /E.
 ### 9. Questions: Navigate to the C:\Users\ITEUser\ITEfolder3 directory. and user rd ITEfolder1, Were you able to delete the directory? Explain
 Answer: You were not able to delete the directory because it was not empty.
 
-
-
+## Reflection Question.
+### 10. Question: What are the advantages of using CLI vs. GUI?
+Answer GUI: GUI lets a user interact with the device/system with the help of graphical elements
+Answer CLI: CLI lets a user interact with their device/system with the help of various commands
 
 

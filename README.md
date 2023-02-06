@@ -586,9 +586,14 @@ Answer: /R
 What happened? Explain.
 Answer: Access was denied because you do not have sufficient privileges.
 
-## Step 2:  Use the chkdsk command options.
+## part1, Step 2:  Use the chkdsk command options.
 ### 5. Question: What is the file system of the drive?
-Answer: !
+Answer: NTFS
+
+## Part2, step1: Create a new partition using DiskPart.
+### 6. Question: Enter list partition to list all the partitions on the disk. How partitions are on the disk?
+Answer:
+
 
 
 

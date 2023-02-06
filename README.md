@@ -480,7 +480,8 @@ Answer: You were not able to delete the directory because it was not empty.
 
 ## Reflection Question.
 ### 10. Question: What are the advantages of using CLI vs. GUI?
-Answer GUI: GUI lets a user interact with the device/system with the help of graphical elements
-Answer CLI: CLI lets a user interact with their device/system with the help of various commands
+Answer GUI: GUI lets a user interact with the device/system with the help of graphical elements.<br />
+
+Answer CLI: CLI lets a user interact with their device/system with the help of various commands.
 
 

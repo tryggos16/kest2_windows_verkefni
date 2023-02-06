@@ -410,11 +410,17 @@ Answer: jhon´s Console - [Console Root\Management Tools\Computer Management(Loc
 Answer: Picture.
 
 ## Step 2: Open the registry editor.
-### 3. Question: hat is the data value of the Background (hint – it has three numbers that correspond to red, green, and 
+### 3. Question: what is the data value of the Background (hint – it has three numbers that correspond to red, green, and 
 blue)?
 Answer: 0 99 177.
 
 ## Step 3: Export a registry key.
+### 4. Question: what is the data value of the Background?
+Answer: 0 99 177
+
+### 5. Question: What is the data value of the Background? Compare the new value in the Registry to the value saved in 
+BlueBKG.reg.
+Answer: Blue: 0 99 177 TO RED: 232 17 35
 
 
 # 11.3.2.8 Lab - Manage System Files.  NOT DONE!

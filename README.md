@@ -1,7 +1,7 @@
 # kest2_windows_verkefni
 
 
-# 10.3.1.4 Lab - Finalize the Windows Installation
+# 10.3.1.4 Lab - Finalize the Windows Installation.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: What options are available in the Driver tab?
@@ -11,7 +11,7 @@ Answer: Driver Details and driver updates,
 Answer: check for any updates
 
 
-# 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates !NOT COMPLEATE!
+# 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Questinon: What key or combination of keys is used to run Setup on your computer?
@@ -42,7 +42,7 @@ Answer:
 6. Wait until the update process has completed, then restart the computer
 
 
-# 3.1.2.7 Lab - Install Third-Party Software in Windows
+# 3.1.2.7 Lab - Install Third-Party Software in Windows.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: What is the default installation location for Packet Tracer?
@@ -51,7 +51,7 @@ Answer: C drive
 ### 2. Reflection Question: Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 Answer: Sometimes, the uninstall software does not fully remove all the files and settings created by the application during installation. The Microsoft Windows Uninstall or change a program utility removes the application completely.
 
-# 10.2.1.8 Lab - Create a Partition in Windows
+# 10.2.1.8 Lab - Create a Partition in Windows.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: What type of File System is used on the NEW VOLUME (I:)?
@@ -87,7 +87,7 @@ Answer: Security.
 ### 11. Reflection Question: Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
 Answer: The security tab provides a way to display and change permissions of the documents.
 
-# 11.1.2.10 Lab - Explore the Windows Desktop
+# 11.1.2.10 Lab - Explore the Windows Desktop.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: List some of the icons that are on the Desktop.
@@ -121,7 +121,7 @@ Answer: Volume, Network, Power, Action Center.
 Answer: show or hide notifications and choose which apps can display notifications in the notification area.
 
 
-11.1.3.4 Lab – Work with Task Manager
+11.1.3.4 Lab – Work with Task Manager.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: use the task managar to force close the webrowser, What happened?
@@ -188,7 +188,7 @@ Answer: End task, End process tree, Set priority, Set affinity, Analyze wait cha
 Answer: the task manager gives a bunch of info witch can be used to troubleshoot the computer and a lot more.
 
 
-# 11.1.4.11 Lab - Working with File Explorer
+# 11.1.4.11 Lab - Working with File Explorer.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ### 1. Question: create 2 folders, move folder2 into folder1, then move folder1 to the desktop
@@ -235,7 +235,7 @@ Answer: Documents, Music, Pictures, and Videos.
 Answer: Select the Folder1 library location and click Remove and then click OK.
 
 
-# 11.2.1.5 Lab - Explore Control Panel Categories
+# 11.2.1.5 Lab - Explore Control Panel Categories.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ## Step 1:  Control Panel Views
@@ -298,7 +298,7 @@ Answer: Region.
 Answer: Date and Time > Internet Time > Change settings.
 
 
-# 11.2.2.3 Lab - User Accounts
+# 11.2.2.3 Lab - User Accounts.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1:  Account Creation.
 ### 1. Question: What can a user do with a limited account?
@@ -352,7 +352,7 @@ Answer: it is the  I[ITE] drive.
 Answer: to ensure system stability.
 
 
-# 11.2.6.2 Lab – Use Device Manager
+# 11.2.6.2 Lab – Use Device Manager.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Step 1: Open Device Manager.
 ### 1. Question: What information is listed in the Device Manager window? Why would you use it?

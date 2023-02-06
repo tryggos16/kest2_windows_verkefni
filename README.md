@@ -456,7 +456,7 @@ Answer: Memory	7.68 GB
 ### 4. Question: Under the Hardware Resources heading, locate and list the following:
 DMA channels and the device using the resources.
 Answer: 
-Channel 3	ECP Printer Port (LPT1)	OK
+Channel 3	ECP Printer Port (LPT1)	OK <br /
 Channel 4	Direct memory access controller	OK
 
 ### 5. Question: Under the Components heading locate and list the following:

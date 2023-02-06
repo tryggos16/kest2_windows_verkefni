@@ -422,6 +422,15 @@ Answer: 0 99 177
 BlueBKG.reg.
 Answer: Blue: 0 99 177 TO RED: 232 17 35
 
+## Step 4: Import a registry file.
+### 6. Question: What is the data value of the Background?
+Answer: 0 99 177
+
+### 7. Question: What is the color of the desktop?
+Answer: its still RED?
+
+### 8.
+
 
 # 11.3.2.8 Lab - Manage System Files.  NOT DONE!
 """""""""""""""""""""""""""""""""""""""""""""""""""""

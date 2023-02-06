@@ -353,6 +353,7 @@ Answer: to ensure system stability.
 
 
 # 11.2.6.2 Lab – Use Device Manager
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Step 1: Open Device Manager.
 ### 1. Question: What information is listed in the Device Manager window? Why would you use it?
 Answer: Device Manager lists all the hardware devices installed on your computer. Use the Device Manager to view and change the properties of any device.
@@ -375,6 +376,7 @@ Answer: The other options are disable device and uninstall devices.
 
 
 ## 11.3.1.11 Lab – Monitor and Manage System Resources.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 2:  Explore the Impact of Services - Step 2:  Stop print spooler.
 ### 1. Question: What message did you receive? How would you fix this?
 Answer: The message received says: Before you can perform printer-related tasks such as page setup or printing a document, you need to install a printer. You will need to restart the print spooler.
@@ -396,6 +398,7 @@ Answer: c:\PerfLogs\DESKTOP-M4DAI6I_20230203-000001\DataCollector01.csv
 Answer: Available memory in MBytes.
 
 ## 11.3.2.7 Lab - System Utilities.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1: Custom Management Console
 ### 1. Question: What was the path you use to navigate to the Event Viewer?
 Answer: jhon´s Console - [Console Root\Management Tools\Computer Management(Local)\System Tools\Event Viewer]
@@ -410,7 +413,7 @@ Answer: Picture.
 blue)?
 Answer: 0 99 177.
 
-## Step 3: Export a registry key.
+## Step 3: Export a registry key. NOT DONE!
 
 
 

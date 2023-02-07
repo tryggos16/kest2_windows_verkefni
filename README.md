@@ -570,7 +570,7 @@ Answer GUI: GUI lets a user interact with the device/system with the help of gra
 Answer CLI: CLI lets a user interact with their device/system with the help of various commands.
 
 
-# 11.4.3.2 Lab - Disk CLI Commands. NOT DONE!
+# 11.4.3.2 Lab - Disk CLI Commands.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Step 1:  Explore the chkdsk command
 ### 1. Question: What is the option to fix errors on the drive?
@@ -592,7 +592,21 @@ Answer: NTFS
 
 ## Part2, step1: Create a new partition using DiskPart.
 ### 6. Question: Enter list partition to list all the partitions on the disk. How partitions are on the disk?
-Answer:
+Answer:  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    System             100 MB  1024 KB
+  Partition 2    Reserved            16 MB   101 MB
+  Partition 3    Primary            237 GB   117 MB
+  Partition 4    Recovery           498 MB   237 GB
+  
+## Step 2:  Shrink a volume.
+### 7. Question: What is the maximum number of reclaimable bytes?
+Answer: QUERYMAX
+
+
+# 11.4.4.2 Lab – Task and System CLI Commands.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 
 
 

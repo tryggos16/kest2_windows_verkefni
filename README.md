@@ -644,9 +644,11 @@ Answer: C:\Windows\system32> shutdown /s /t 30. Windows will shut down in 2 minu
 Answer: C:\Windows\system32> shutdown /a
 
 
-
-
-
+# 11.4.5.3 Lab - Other Useful Commands.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+## part 2:  The net command
+### 1. Question: When does the password expire?
+Answer: Password expires  3/21/2023 7:42:43 PM
 
 
 

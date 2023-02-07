@@ -606,11 +606,42 @@ Answer: QUERYMAX
 
 # 11.4.4.2 Lab – Task and System CLI Commands.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
+## Part 1:  Task CLI Commands
+### 1. Question: What command would you use to display the results of tasklist one page at a time?
+Answer: What command would you use to display the results of tasklist one page at a time?
+
+### 2. Question: What command would you use to display the results of tasklist one page at a time?
+Answer: /M
+
+### 3. Question: What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+Answer:  tasklist /M oleaut32.dll
+
+### 4. Question: What command would you use to find out all the tasks that are associated with your username?
+Answer: tasklist /fi “username eq iteuser“tasklist /fi “username eq tryggvi“
+
+### 5. Question: What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+Answer:  tasklist /FI “cputime gt 01:40:00″
+
+## Step 2:  The taskkill command.
+### 6. Question: What command would you use if you wanted to terminate all process owned by a particular user?
+Answer: “taskkill /FI “username eq User”
 
 
+## Part 2:  System CLI Commands
+### 7. Question: Part 2:  System CLI Commands
+Answer: /verifyonly
 
+### 8. Question: What would you add to the command so you can view the output one page at a time?
+Answer: dism /online /get-drivers /all /format:table | more
 
+### 9. Question: Enter the command to log off your computer. Record the command below.
+Answe: C:\Windows\system32> shutdown /l
 
+### 10. Question: Record the command below. What warning message did you see?
+Answer: C:\Windows\system32> shutdown /s /t 30. Windows will shut down in 2 minutes.
+
+### 11. Question: What command would you use to abort the shutdown?
+Answer: C:\Windows\system32> shutdown /a
 
 
 

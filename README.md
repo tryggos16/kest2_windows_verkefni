@@ -650,14 +650,3 @@ Answer: C:\Windows\system32> shutdown /a
 ### 1. Question: When does the password expire?
 Answer:  Password expires  3/21/2023 7:42:43 PM
 
-
-
-
-
-
-
-
-
-
-
-

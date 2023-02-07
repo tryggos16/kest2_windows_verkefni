@@ -648,7 +648,7 @@ Answer: C:\Windows\system32> shutdown /a
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## part 2:  The net command
 ### 1. Question: When does the password expire?
-Answer: Password expires  3/21/2023 7:42:43 PM
+Answer:  Password expires  3/21/2023 7:42:43 PM
 
 
 

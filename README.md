@@ -699,6 +699,22 @@ Answer: net user user1 pass /add
 ### 5. Question: Password.
 Answer: pass
 
-### 6. Question:
+### 6. Question: What message is displayed on the remote computer and how much time is mentioned?
+Answer: The user on remote computer has 30 seconds to deny the remote desktop connection or approve it. If the user on remote computer does nothing, the remote desktop is allowed after 30 seconds.
+
+### 7. Question: What is the default amount of time remote assistance invitations remain open?
+Answer: 6 Hours
+
+### 8. Question: What are the ways to send an invitation to a trusted person with Remote Assistance?
+Answer: A saved invitation file, email invitation, or Easy Connect.
+
+## Reflection Questions.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+### 9: Question: What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
+Answer:  Remote Assistance is best suited in helping a user troubleshoot issues on their computer
+
+### 10. Question: How many simultaneous users can access a Windows computer at a single time?
+Answer:
+
 
 

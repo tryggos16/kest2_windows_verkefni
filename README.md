@@ -650,3 +650,15 @@ Answer: C:\Windows\system32> shutdown /a
 ### 1. Question: When does the password expire?
 Answer:  Password expires  3/21/2023 7:42:43 PM
 
+
+# GROUP.
+# 11.5.2.4 Lab – Share Resources.
+
+### 1. Question: What is the name of your computer? Provide your computer name and shared folder name to your partner.
+Answer: DESKTOP-M4DAI6I
+
+### 2.Question: What is the name of your partner’s computer and shared folder from your partner?
+Answer: DESKTOP-HACBQ4N
+
+
+

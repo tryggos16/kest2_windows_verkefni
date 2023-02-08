@@ -657,8 +657,14 @@ Answer:  Password expires  3/21/2023 7:42:43 PM
 ### 1. Question: What is the name of your computer? Provide your computer name and shared folder name to your partner.
 Answer: DESKTOP-M4DAI6I
 
-### 2.Question: What is the name of your partner’s computer and shared folder from your partner?
+### 2. Question: What is the name of your partner’s computer and shared folder from your partner?
 Answer: DESKTOP-HACBQ4N
+
+### 3. Question: Can you open the Brief file?
+Answer: Yes:
+
+### 4. Question: Can you delete the Brief file? What happens?
+Answer: NO
 
 
 

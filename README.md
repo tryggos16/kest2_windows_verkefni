@@ -672,6 +672,14 @@ Answer: Everyone has Read permissions at the start.
 ### 6. Question: What needs to be changed to allow any remote users to make changes in the ShareXX folder?
 Answer: check under full controle and Change
 
+### 7. Question: after making some changes Can you open the Brief file?
+Answer: YES
+
+### 8. QuestionÞ Can you delete the Brief file? What happens?
+Answer: Yes. Access is granted this time.
+
+### 9. Question: What can you do to assign a drive letter to your partner’s shared folder?
+Answer: Mapping the shared folder to a drive letter using Map network drive.
 
 
 

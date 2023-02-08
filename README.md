@@ -682,5 +682,18 @@ Answer: Yes. Access is granted this time.
 Answer: Mapping the shared folder to a drive letter using Map network drive.
 
 
+# 11.5.6.2 Lab - Windows Remote Desktop and Assistance.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+### 1. Question:
+Answer:
+
+### 2. Question:
+Answer: 3389
+
+### 3. Question: What CLI command would you use to get the IP address?
+Answer: ipconfig
+
+### 4. Question: create a new user:
+Answer:
 
 

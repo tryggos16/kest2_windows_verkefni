@@ -666,5 +666,13 @@ Answer: Yes:
 ### 4. Question: Can you delete the Brief file? What happens?
 Answer: NO
 
+### 5. Question: What are the default permissions?
+Answer: Everyone has Read permissions at the start.
+
+### 6. Question: What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+Answer: check under full controle and Change
+
+
+
 
 

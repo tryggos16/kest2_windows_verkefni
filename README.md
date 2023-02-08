@@ -608,7 +608,7 @@ Answer: QUERYMAX
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ## Part 1:  Task CLI Commands
 ### 1. Question: What command would you use to display the results of tasklist one page at a time?
-Answer: What command would you use to display the results of tasklist one page at a time?
+Answer: tasklist | more
 
 ### 2. Question: What command would you use to display the results of tasklist one page at a time?
 Answer: /M
@@ -693,8 +693,8 @@ Answer: 3389
 ### 3. Question: What CLI command would you use to get the IP address?
 Answer: ipconfig
 
-### 4. Question: create a new user:
-Answer: net user user1 pass /add
+### 4. Question: create a new user, What is the user name?
+Answer: net user user1 pass /add , username is user1
 
 ### 5. Question: Password.
 Answer: pass
@@ -714,7 +714,13 @@ Answer: A saved invitation file, email invitation, or Easy Connect.
 Answer:  Remote Assistance is best suited in helping a user troubleshoot issues on their computer
 
 ### 10. Question: How many simultaneous users can access a Windows computer at a single time?
-Answer:
+Answer: 1
+
+### 11. Question: What type of security components are implemented with Windows Remote Desktop?
+Answer: authentication and encryption
+
+### 12. Question: How could remote desktop be used as a beneficial technology in the workplace?
+Answer: remote connectivity to control a computer/server at a remote site or room
 
 
 

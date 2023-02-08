@@ -694,7 +694,7 @@ Answer: 3389
 Answer: ipconfig
 
 ### 4. Question: create a new user, What is the user name?
-Answer: net user user1 pass /add , username is user1
+Answer: net user user1 pass /add, username is user1
 
 ### 5. Question: Password.
 Answer: pass

@@ -685,7 +685,7 @@ Answer: Mapping the shared folder to a drive letter using Map network drive.
 # 11.5.6.2 Lab - Windows Remote Desktop and Assistance.
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 ### 1. Question:
-Answer:
+Answer: DESKTOP-NT
 
 ### 2. Question:
 Answer: 3389
@@ -694,6 +694,11 @@ Answer: 3389
 Answer: ipconfig
 
 ### 4. Question: create a new user:
-Answer:
+Answer: net user user1 pass /add
+
+### 5. Question: Password.
+Answer: pass
+
+### 6. Question:
 
 
